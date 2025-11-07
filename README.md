@@ -8,9 +8,6 @@ It provides students with a centralized platform to discover, explore, and parti
 ## 🌐 Live Preview
 > 🔗 **Preview Link:** [https://campus-connect-abvgiet.vercel.app/]()
 
-
-*(You can insert a deployed link or local server URL once hosted.)*
-
 ---
 
 ## 📋 Table of Contents
@@ -108,11 +105,10 @@ If something doesn’t display correctly:
 ---
 
 ## 👨‍💻 Contributors:
-| Akshayverma001 | | 129Ashish | | Vanshikarajan | 
+| akshayverma001 | | 129Ashish | | Vanshikarajan | 
 
 - **Team -X **  
   *Developed as part of Hackathon 2K25 project.*
-
 
 
 ⭐ **Campus Connect** — Making campus life more connected, one event at a time!

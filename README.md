@@ -91,8 +91,9 @@ Below are some example placeholders for adding screenshots and previews of your 
 | Home Page | 
 |------------|
 | ![Home Page](images/image.png) |<br>
-| <img width="1514" height="905" alt="image" src="https://github.com/user-attachments/assets/ca7752db-79ca-4c71-ae9c-1518edba9152" />
-
+<img width="1514" height="905" alt="image" src="https://github.com/user-attachments/assets/ca7752db-79ca-4c71-ae9c-1518edba9152" />
+<img width="1495" height="896" alt="image" src="https://github.com/user-attachments/assets/c688c2b9-cfb3-44a1-9f8b-d74701aeec4b" />
+<img width="1380" height="911" alt="image" src="https://github.com/user-attachments/assets/45a1db46-14b4-4d36-b03a-fb7c864aa05d" />
 
 
 ---

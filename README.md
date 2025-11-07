@@ -6,7 +6,8 @@ It provides students with a centralized platform to discover, explore, and parti
 ---
 
 ## 🌐 Live Preview
-> 🔗 **Preview Link:** [Add your website link here]()
+> 🔗 **Preview Link:** [https://campus-connect-abvgiet.vercel.app/]()
+
 
 *(You can insert a deployed link or local server URL once hosted.)*
 

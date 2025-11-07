@@ -53,7 +53,7 @@ Instead of searching across multiple sources, users can view all events in one p
 ## ⚙️ Installation
 To set up the project locally:
 
-```bash
+bash
 # Clone this repository
 git clone https://github.com/your-username/campus-connect.git
 
@@ -62,7 +62,7 @@ cd campus-connect
 
 # Open in browser
 start index.html
-```
+
 *(or simply double-click `index.html` to open it in your browser)*
 
 ---
@@ -75,14 +75,13 @@ start index.html
 ---
 
 ## 📂 File Structure
-```
+
 Campus Connect/
 │
 ├── index.html          # Main landing page
 ├── style.css           # Styling for the web app
 ├── script.js           # Core interactivity logic
 └── images/             # Logos, screenshots, and media assets
-```
 
 ---
 
@@ -93,8 +92,6 @@ Below are some example placeholders for adding screenshots and previews of your 
 |------------|
 | ![Home Page](images/image.png) |<br>
 
-
-> 💡 *Replace the image paths above with actual screenshots or add a link to your hosted demo.*
 
 ---
 

@@ -104,10 +104,9 @@ If something doesn’t display correctly:
 ---
 
 ## 👨‍💻 Contributors:
-Akshayverma001
-129Ashish
+| Akshayverma001 | | 129Ashish | | Vanshikarajan | 
 
-- **Team Campus Connect**  
+- **Team -X **  
   *Developed as part of Hackathon 2K25 project.*
 
 

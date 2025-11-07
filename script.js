@@ -1175,6 +1175,12 @@
         // Enroll in event from modal
         function enrollInEvent() {
             if (!currentEvent) return;
+
+            // If it's the Hackathon event, open the Google Sheets link
+            if (currentEvent.title === "Hackathon 2K25") {
+                window.open("https://docs.google.com/spreadsheets/d/17MkCeV_q9qNymZoNulXdGJdTiJdTu5hUdXClwcUUltc/edit?usp=sharing", "_blank");
+                return;
+            }
             
             if (currentEvent.status === 'upcoming' && !currentEvent.enrolled) {
                 currentEvent.enrolled = true;

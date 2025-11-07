@@ -1207,6 +1207,12 @@
             const event = events.find(e => e.id === eventId);
             if (!event) return;
             
+            // If it's the Hackathon event, open the Google Sheets link
+            if (event.title === "Hackathon 2K25") {
+                window.open("https://docs.google.com/spreadsheets/d/17MkCeV_q9qNymZoNulXdGJdTiJdTu5hUdXClwcUUltc/edit?usp=sharing", "_blank");
+                return;
+            }
+            
             if (event.status === 'upcoming' && !event.enrolled) {
                 event.enrolled = true;
                 event.rsvpCount++;
